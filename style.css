@@ -105,3 +105,11 @@ nav a:hover {
     text-decoration: underline;
 }
 
+.botao {
+    justify-content: center;
+    background-color: aqua;
+    color: white;
+    font-size: 40px;
+
+}
+
